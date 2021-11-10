@@ -2,6 +2,7 @@
   "name": "website-3",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://samuelfreitasdev.github.io/pneumonia-model",
   "dependencies": {
     "@tensorflow/tfjs": "^3.11.0",
     "@testing-library/jest-dom": "^5.11.4",
