@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pneumonia-model/static/css/main.34b88030.chunk.css",
+    "main.js": "/pneumonia-model/static/js/main.882f5f76.chunk.js",
+    "main.js.map": "/pneumonia-model/static/js/main.882f5f76.chunk.js.map",
+    "runtime-main.js": "/pneumonia-model/static/js/runtime-main.28425c83.js",
+    "runtime-main.js.map": "/pneumonia-model/static/js/runtime-main.28425c83.js.map",
+    "static/css/2.383c0125.chunk.css": "/pneumonia-model/static/css/2.383c0125.chunk.css",
+    "static/js/2.e8b3c1d3.chunk.js": "/pneumonia-model/static/js/2.e8b3c1d3.chunk.js",
+    "static/js/2.e8b3c1d3.chunk.js.map": "/pneumonia-model/static/js/2.e8b3c1d3.chunk.js.map",
+    "static/js/3.6b272538.chunk.js": "/pneumonia-model/static/js/3.6b272538.chunk.js",
+    "static/js/3.6b272538.chunk.js.map": "/pneumonia-model/static/js/3.6b272538.chunk.js.map",
+    "index.html": "/pneumonia-model/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/pneumonia-model/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.34b88030.chunk.css.map": "/pneumonia-model/static/css/main.34b88030.chunk.css.map",
+    "static/js/2.e8b3c1d3.chunk.js.LICENSE.txt": "/pneumonia-model/static/js/2.e8b3c1d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28425c83.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.e8b3c1d3.chunk.js",
+    "static/css/main.34b88030.chunk.css",
+    "static/js/main.882f5f76.chunk.js"
+  ]
+}
