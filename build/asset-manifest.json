@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pneumonia-model/static/css/main.34b88030.chunk.css",
-    "main.js": "/pneumonia-model/static/js/main.7ee2b547.chunk.js",
-    "main.js.map": "/pneumonia-model/static/js/main.7ee2b547.chunk.js.map",
+    "main.js": "/pneumonia-model/static/js/main.4f39b34e.chunk.js",
+    "main.js.map": "/pneumonia-model/static/js/main.4f39b34e.chunk.js.map",
     "runtime-main.js": "/pneumonia-model/static/js/runtime-main.28425c83.js",
     "runtime-main.js.map": "/pneumonia-model/static/js/runtime-main.28425c83.js.map",
     "static/css/2.383c0125.chunk.css": "/pneumonia-model/static/css/2.383c0125.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.383c0125.chunk.css",
     "static/js/2.1ce29645.chunk.js",
     "static/css/main.34b88030.chunk.css",
-    "static/js/main.7ee2b547.chunk.js"
+    "static/js/main.4f39b34e.chunk.js"
   ]
 }
