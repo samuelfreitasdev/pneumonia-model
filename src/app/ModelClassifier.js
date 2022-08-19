@@ -35,7 +35,8 @@ class ModelClassifier {
 	model = null;
 
 	async init() {
-		this.model = await tf.loadLayersModel('https://pneumonia-model.nyc3.digitaloceanspaces.com/model.json');
+		// this.model = await tf.loadLayersModel('https://pneumonia-model.nyc3.digitaloceanspaces.com/model.json');
+		this.model = await tf.loadLayersModel('https://model.samuelfreitas.com.br/model.json');
 		console.log("Model loaded.");
 	}
 

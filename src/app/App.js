@@ -8,6 +8,7 @@ import Button from "react-bootstrap/Button";
 
 import {ModelClassifier} from "./ModelClassifier";
 import PredictionsListView from "./PredictionsListView";
+import Disclaimer from "./disclaimer/Disclaimer";
 
 class App extends React.Component {
   
@@ -56,6 +57,8 @@ class App extends React.Component {
 	render() {
 		return (
 		<Container style={{marginTop: "20px"}} >
+
+			<Disclaimer/>
 
 			{!this.state.isModelLoaded && (
 			<Card style={{ marginTop: "20px", marginBottom: "20px" }}>
